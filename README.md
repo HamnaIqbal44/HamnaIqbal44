@@ -4,7 +4,9 @@
 ☎️ +92 3319591183
 
 📧 [hamnaiqbal44.official@gmail.com](mailto:hamnaiqbal44.official@gmail.com) 
+
 🌐 [Website](https://portfolio-hamna-iqbal.lovable.app/)  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/)
 
 ---
