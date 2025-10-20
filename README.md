@@ -2,8 +2,10 @@
 🔧 **Lab Engineer | AI & Data Science Enthusiast**  
 📍 Haripur, Pakistan  
 ☎️ +92 3319591183
+
 📧 [hamnaiqbal44.official@gmail.com](mailto:hamnaiqbal44.official@gmail.com) 
-🌐 [Website](https://portfolio-hamna-iqbal.lovable.app/) | [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/)  
+🌐 [Website](https://portfolio-hamna-iqbal.lovable.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/)
 
 ---
 
@@ -35,13 +37,13 @@ VS Code | Visual Studio | PyCharm | Jupyter Notebook | Figma | StarUML | Git | G
 ---
 
 ## 🎓 Education  
-**Pak-Austria Fachhochschule Institute of Applied Sciences and Technology** (Sep 2020 – Jul 2024)
-Bachelor of Science in Software Engineering
-CGPA: **3.50/4.00**
+**Pak-Austria Fachhochschule Institute of Applied Sciences and Technology** *(Sep 2020 – Jul 2024)*  
+**Bachelor of Science in Software Engineering**  
+**CGPA:** 3.50 / 4.00  
 
 ---
 
 ## 📫 Connect With Me  
 🌐 [Website](https://portfolio-hamna-iqbal.lovable.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/) 
-📧 [hamnaiqbal44.official@gmail.com](mailto:hamnaiqbal44.official@gmail.com)   
+🔗 [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/)  
+📧 [hamnaiqbal44.official@gmail.com](mailto:hamnaiqbal44.official@gmail.com) 
