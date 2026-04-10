@@ -14,7 +14,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-✓-informational?logo=mongodb)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-informational?logo=github)
 
-##🚀 About Me
+## 🚀 About Me
 I am a Lab Engineer with a Software Engineering background, building practical and reproducible work across **AI/ML, NLP, Computer Vision, Data Science, and Full-Stack Development**. My focus is on turning real-world data into usable tools (dashboards, analytics, deployable prototypes) and documenting projects clearly for fast evaluation.
 
 ## Research & Interests
