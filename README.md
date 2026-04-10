@@ -2,7 +2,7 @@
 
 **Lab Engineer | AI, Machine Learning & Data Science Enthusiast**  
 📍 Haripur, Pakistan · 🎓 BS Software Engineering (2020–2024)
-🌐 [Website](https://portfolio-hamna-iqbal.lovable.app/)
+🌐 [Website](https://portfolio-hamna-iqbal.lovable.app/) |
 🔗 [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/)
 
 <!-- Badges (Shields.io) -->
@@ -27,27 +27,27 @@ I am a Lab Engineer with a Software Engineering background, building practical a
 ## Key Projects 
 - **Sentiment Analysis of Software Requirements in Social Media Platform (FYP)**  
   Automated review collection + sentiment analysis + quality insights, with a Streamlit dashboard for trends and improvement areas.  
-  Repo: https://github.com/HamnaIqbal44/Sentiment-Analysis-of-Software-Requirements-in-Social-Media-Platform-FYP-.git
+  [Project Link](https://github.com/HamnaIqbal44/Sentiment-Analysis-of-Software-Requirements-in-Social-Media-Platform-FYP-.git)
 
 - **Full-Stack E-commerce Web Application (MERN Stack)**  
   MERN e-commerce app with authentication, cart workflow, and MongoDB-backed product data handling.  
-  Repo: https://github.com/HamnaIqbal44/mern-ecommerce-master.git
+  [Project Link](https://github.com/HamnaIqbal44/mern-ecommerce-master.git)
 
 - **Responsive Web UI Components and Layout Design**  
   Responsive UI components (cards, carousels, navigation bars, jumbotrons) focused on clean layout, usability, and visual consistency.  
-  Repo: https://github.com/HamnaIqbal44/responsive-web-ui-components.git
+  [Project Link](https://github.com/HamnaIqbal44/responsive-web-ui-components.git)
 
 - **Weather Forecast Dashboard (Streamlit Dashboard)** *(internship work)*  
   Applied ML to real datasets and built Streamlit dashboards to interpret predictive results.
-  Repo: https://github.com/HamnaIqbal44/Weather-Forecast-Dashboard.git
+  [Project Link](https://github.com/HamnaIqbal44/Weather-Forecast-Dashboard.git)
 
 - **Game Recommendation System for Steam Data Set** *(notebook)*  
   Recommendation workflow using Steam data with preprocessing, feature analysis, and recommendation logic for personalisation.
-  Notebook: https://colab.research.google.com/drive/1DDtu4stQPoNSKVj0aq7UYSDcY6ZgRMg8?usp=sharing
+  [Project Link](https://colab.research.google.com/drive/1DDtu4stQPoNSKVj0aq7UYSDcY6ZgRMg8?usp=sharing)
 
 - **A CNN-Based YOLO Framework for Robust Visual Inspection Under Varying Lighting Conditions** *(notebook)*  
   Computer vision framework combining CNN feature learning with YOLO to improve detection stability under brightness variations.
-  Notebook: https://colab.research.google.com/drive/18yWpFuC8IMyvZdQmsdhAw1HrC_XGDLHy?usp=sharing
+  [Project Link](https://colab.research.google.com/drive/18yWpFuC8IMyvZdQmsdhAw1HrC_XGDLHy?usp=sharing)
 
 ## Skills 
 - **Languages:** C++, Python, SQL, JavaScript  
