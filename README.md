@@ -57,17 +57,17 @@ I am a Lab Engineer with a Software Engineering background, building practical a
 - **Tools:** Git/GitHub, PyCharm, Visual Studio Code, Visual Studio, Postman, Jupyter Notebook, Kaggle, Google Colab, Roboflow, MySQL Workbench, Figma, Lucidchart, Visual Paradigm, StarUML, Draw.io, Creately, Overleaf, ClickUp, Office 365  
 - **Deployment:** Hugging Face Spaces, Vercel, Microsoft Azure, Loveable
 
-##🎓 Education & Honours
+## 🎓 Education & Honours
 - **BS Software Engineering (2020–2024)** — Pak-Austria Fachhochschule Institute of Applied Sciences and Technology  
   Thesis: *Sentiment Analysis of Software Requirements in Social Media Platform*
 - **Dean’s List of Honors + Merit Scholarships:** Fall 2020, Fall 2022, Fall 2023, Spring 2024
 
-##💼 Current Role
+## 💼 Current Role
 Since 30 September 2024, I design and deliver hands-on lab systems for **Data Structures & Algorithms, Database Systems, Programming Fundamentals, Operating Systems, and ICT**, develop lab manuals/projects/assessments aligned with **CLOs/OBE**, and mentor students in debugging, database querying, process control, and problem solving.
 
 ## Contact
-- Email: hamnaiqbal44.official@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hamna-iqbal-a9334a226/
+📧 [Email](hamnaiqbal44.official@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/)
 
 ## Privacy
 - I do not publish private datasets, confidential institutional material, student data, or credentials.
