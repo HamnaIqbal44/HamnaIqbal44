@@ -26,14 +26,14 @@ I am a Lab Engineer with a Software Engineering background, building practical a
 
 ## 💻 Key Projects
 
-| Project | Details |
-|--------|---------|
-| **Sentiment Analysis of Software Requirements (FYP)** | 🔗 [Project Link](https://github.com/HamnaIqbal44/Sentiment-Analysis-of-Software-Requirements-in-Social-Media-Platform-FYP-.git) <br> Automated review collection, sentiment analysis, and quality insights with a Streamlit dashboard. <br> **Tools:** Python, NLP, Streamlit |
-| **Full-Stack E-commerce Web Application (MERN)** | 🔗 [Project Link](https://github.com/HamnaIqbal44/mern-ecommerce-master.git) <br> MERN app with authentication, cart workflow, and MongoDB-based product handling. <br> **Tools:** MongoDB, Express.js, React, Node.js |
-| **Responsive Web UI Components** | 🔗 [Project Link](https://github.com/HamnaIqbal44/responsive-web-ui-components.git) <br> Built responsive UI components (cards, carousels, navbars) with focus on usability and clean design. <br> **Tools:** HTML, CSS, JavaScript |
-| **Weather Forecast Dashboard (Streamlit)** | 🔗 [Project Link](https://github.com/HamnaIqbal44/Weather-Forecast-Dashboard.git) <br> ML-powered dashboard for analyzing and visualizing weather predictions. <br> **Tools:** Python, Streamlit, Machine Learning |
-| **Game Recommendation System (Steam Dataset)** | 🔗 [Project Link](https://colab.research.google.com/drive/1DDtu4stQPoNSKVj0aq7UYSDcY6ZgRMg8?usp=sharing) <br> Recommendation system with preprocessing, feature engineering, and personalization logic. <br> **Tools:** Python, Pandas, Scikit-learn |
-| **CNN-Based YOLO Framework for Visual Inspection** | 🔗 [Project Link](https://colab.research.google.com/drive/18yWpFuC8IMyvZdQmsdhAw1HrC_XGDLHy?usp=sharing) <br> Combined CNN and YOLO for robust object detection under varying lighting conditions. <br> **Tools:** PyTorch, CNN, YOLO, Computer Vision |
+| Project | Description | Link |
+|--------|------------|------|
+| **Sentiment Analysis of Software Requirements (FYP)** | Automated review collection, sentiment analysis, and quality insights with a Streamlit dashboard. | [View Project](https://github.com/HamnaIqbal44/Sentiment-Analysis-of-Software-Requirements-in-Social-Media-Platform-FYP-.git) |
+| **Full-Stack E-commerce Web Application (MERN)** | MERN app with authentication, cart workflow, and MongoDB-based product management. | [View Project](https://github.com/HamnaIqbal44/mern-ecommerce-master.git) |
+| **Responsive Web UI Components** | Designed responsive UI elements (cards, carousels, navbars) focusing on usability and clean design. | [View Project](https://github.com/HamnaIqbal44/responsive-web-ui-components.git) |
+| **Weather Forecast Dashboard (Streamlit)** | Built ML-powered dashboard to analyze and visualize predictive weather data. | [View Project](https://github.com/HamnaIqbal44/Weather-Forecast-Dashboard.git) |
+| **Game Recommendation System (Steam Dataset)** | Implemented recommendation system with preprocessing, feature engineering, and personalization logic. | [View Project](https://colab.research.google.com/drive/1DDtu4stQPoNSKVj0aq7UYSDcY6ZgRMg8?usp=sharing) |
+| **CNN-Based YOLO Framework for Visual Inspection** | Combined CNN and YOLO for robust object detection under varying lighting conditions. | [View Project](https://colab.research.google.com/drive/18yWpFuC8IMyvZdQmsdhAw1HrC_XGDLHy?usp=sharing) |
 
 ## ⚙️ Skills 
 - **Languages:** C++, Python, SQL, JavaScript  
