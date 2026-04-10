@@ -2,7 +2,7 @@
 
 **Lab Engineer | AI, Machine Learning & Data Science Enthusiast**  
 📍 Haripur, Pakistan · 🎓 BS Software Engineering (2020–2024)
-🌐 Website https://portfolio-hamna-iqbal.lovable.app/ | LinkedIn https://www.linkedin.com/in/hamna-iqbal-a9334a226/
+🌐 Website [https://portfolio-hamna-iqbal.lovable.app/] | LinkedIn https://www.linkedin.com/in/hamna-iqbal-a9334a226/
 
 <!-- Badges (Shields.io) -->
 ![Python](https://img.shields.io/badge/Python-✓-informational?logo=python)
