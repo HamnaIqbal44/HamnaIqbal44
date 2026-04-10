@@ -17,14 +17,14 @@
 ## 🚀 About Me
 I am a Lab Engineer with a Software Engineering background, building practical and reproducible work across **AI/ML, NLP, Computer Vision, Data Science, and Full-Stack Development**. My focus is on turning real-world data into usable tools (dashboards, analytics, deployable prototypes) and documenting projects clearly for fast evaluation.
 
-## Research & Interests
+## 🔬 Research & Interests
 - **Machine Learning & Deep Learning:** model development, evaluation, deployment-ready prototypes
 - **Natural Language Processing:** sentiment analysis, user feedback mining, LLM-assisted insights
 - **Computer Vision:** robust object detection under challenging conditions
 - **Data Science:** preprocessing, visualisation, actionable insights
 - **Software Engineering:** maintainability, documentation, structured workflows
 
-## Key Projects 
+## 💻 Key Projects 
 - **Sentiment Analysis of Software Requirements in Social Media Platform (FYP)**  
   Automated review collection + sentiment analysis + quality insights, with a Streamlit dashboard for trends and improvement areas.  
   [Project Link](https://github.com/HamnaIqbal44/Sentiment-Analysis-of-Software-Requirements-in-Social-Media-Platform-FYP-.git)
@@ -49,7 +49,7 @@ I am a Lab Engineer with a Software Engineering background, building practical a
   Computer vision framework combining CNN feature learning with YOLO to improve detection stability under brightness variations.
   [Project Link](https://colab.research.google.com/drive/18yWpFuC8IMyvZdQmsdhAw1HrC_XGDLHy?usp=sharing)
 
-## Skills 
+## ⚙️ Skills 
 - **Languages:** C++, Python, SQL, JavaScript  
 - **Web:** HTML, CSS, Bootstrap, React, Next.js, PHP, MongoDB  
 - **AI/Data:** Streamlit, TensorFlow, PyTorch, scikit-learn, Transformers, LangChain, NLTK, OpenCV, Ollama, Beautiful Soup, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
@@ -65,10 +65,10 @@ I am a Lab Engineer with a Software Engineering background, building practical a
 ## 💼 Current Role
 Since 30 September 2024, I design and deliver hands-on lab systems for **Data Structures & Algorithms, Database Systems, Programming Fundamentals, Operating Systems, and ICT**, develop lab manuals/projects/assessments aligned with **CLOs/OBE**, and mentor students in debugging, database querying, process control, and problem solving.
 
-## Contact
+## 📡 Contact
 📧 [Email](hamnaiqbal44.official@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/hamna-iqbal-a9334a226/)
 
-## Privacy
+## 🛡️ Privacy
 - I do not publish private datasets, confidential institutional material, student data, or credentials.
 - If you notice sensitive information, please contact me and I will remove it immediately.
